@@ -1,0 +1,10 @@
+var searchData=
+[
+  ['h1_0',['h1',['../class_hypergeom__sample.html#a8dee016a1ef7acfb9db9142c763c3936',1,'Hypergeom_sample']]],
+  ['hypergeom_5fbern_1',['Hypergeom_bern',['../class_hypergeom__bern.html',1,'Hypergeom_bern'],['../class_hypergeom__bern.html#abd03c23fa50cbc4b785d9dc524200cc7',1,'Hypergeom_bern::Hypergeom_bern(const Hypergeom_inv &amp;a)'],['../class_hypergeom__bern.html#afb5f59e046c4e263dab21a20594a716c',1,'Hypergeom_bern::Hypergeom_bern(Hypergeom_distr &amp;h1, int n=1000)']]],
+  ['hypergeom_5fdistr_2',['Hypergeom_distr',['../class_hypergeom__distr.html',1,'Hypergeom_distr'],['../class_hypergeom__distr.html#a67b45fedceba990f7eea7bdebe9cab9c',1,'Hypergeom_distr::Hypergeom_distr(int _a=10, int _b=10, int _k=10)'],['../class_hypergeom__distr.html#a44150874bf703b4318b9c9716853ef12',1,'Hypergeom_distr::Hypergeom_distr(Hypergeom_distr &amp;distr)']]],
+  ['hypergeom_5finv_3',['Hypergeom_inv',['../class_hypergeom__inv.html',1,'Hypergeom_inv'],['../class_hypergeom__inv.html#aa086be05a800b9279b51f3016dea2d0b',1,'Hypergeom_inv::Hypergeom_inv(const Hypergeom_inv &amp;a)'],['../class_hypergeom__inv.html#a4801c8d57c3147f9b83617f202604486',1,'Hypergeom_inv::Hypergeom_inv(Hypergeom_distr &amp;h1, int n=1000)']]],
+  ['hypergeom_5fsample_4',['Hypergeom_sample',['../class_hypergeom__sample.html',1,'Hypergeom_sample'],['../class_hypergeom__sample.html#aaa938f5b90d99f0871f044f2e9123d10',1,'Hypergeom_sample::Hypergeom_sample(Hypergeom_distr &amp;_h1, int _n=1000)'],['../class_hypergeom__sample.html#aba1252ed2a05f213cea6b7938d1bd0cd',1,'Hypergeom_sample::Hypergeom_sample(const Hypergeom_sample &amp;smpl)']]],
+  ['hypergeom_5ftable_5',['Hypergeom_table',['../class_hypergeom__table.html',1,'Hypergeom_table'],['../class_hypergeom__table.html#ac209b564384c63763b0e62f5de8589c9',1,'Hypergeom_table::Hypergeom_table(const Hypergeom_table &amp;a)'],['../class_hypergeom__table.html#a1c3ddf72a016f9f8d3ccc253db6589da',1,'Hypergeom_table::Hypergeom_table(Hypergeom_distr &amp;h1, int n=1000)']]],
+  ['hypergeometric_20distribution_6',['Hypergeometric distribution',['../index.html',1,'']]]
+];
